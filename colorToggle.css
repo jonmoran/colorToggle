@@ -1,8 +1,14 @@
-.wrapper {
+h2 {
 	text-align: center;
 }
 
+.wrapper {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20%;
+}
+
 .button {
-	position: absolute;
 	top: 50%;
 }
